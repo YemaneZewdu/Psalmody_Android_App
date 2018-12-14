@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <!-- makes us choose only one item from the group-->
+    <group android:checkableBehavior="single">
+        <item
+
+            android:icon="@drawable/ic_audio"
+            android:id="@+id/nav_listen"
+            android:title="Listen" />
+        <item
+            android:id="@+id/nav_book"
+            android:icon="@drawable/ic_pdf"
+            android:title="PDF Book" />
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_star_black"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_email"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/nav_play"
+            android:title="Play" />
+
+
+
+
+
+    </group>
+
+</menu>

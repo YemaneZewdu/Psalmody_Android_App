@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530388619536",
+    "firebase_url": "https://psalmody-519d1.firebaseio.com",
+    "project_id": "psalmody-519d1",
+    "storage_bucket": "psalmody-519d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530388619536:android:8cb1178f99e35bb0",
+        "android_client_info": {
+          "package_name": "com.example.psalmody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530388619536-jme2t8g1hespbvllmjfp7dn9lttinp5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psalmody",
+            "certificate_hash": "889de58c27490aedcff26766471221b138042056"
+          }
+        },
+        {
+          "client_id": "530388619536-79rk6tijrlee4otuqdaqqnrimj2fimf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANfZ2UsuweI2uX0kIa6qsz47veAxNFx4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530388619536-79rk6tijrlee4otuqdaqqnrimj2fimf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

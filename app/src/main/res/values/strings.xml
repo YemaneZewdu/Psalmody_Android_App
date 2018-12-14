@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Psalmody</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="help" translatable="false">1. Refer to the \"Books\" section"\n"
+                                             "\n"2. Search for the Psalm for the day"\n"
+                                             "\n"3. Proceed to the \"Listen\" section "\n"
+                                             "\n"4. Look for the Psalm and enjoy!"\n"
+                                             "\n"5. Click on the star icon to mark it as your fav.</string>
+</resources>
